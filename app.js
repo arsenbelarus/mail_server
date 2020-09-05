@@ -8,11 +8,12 @@ const bodyParser = require("body-parser")
     origin: ['http://localhost:3000', 'https://arsenbelarus.github.io/portfolio'],
     credentials: true,
 };*/
-app.all('/', function(req, res, next) {
+/*app.all('/', function(req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With");
     next()
-});
+});*/
+
 app.use(cors(/*corsOptions*/))
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(bodyParser.json())
@@ -25,6 +26,7 @@ let smtp_password = process.env.PASSWORD || "v2786856"
 let transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
+        type: "login",
         user: smtp_login, // generated ethereal user
         pass: smtp_password // generated ethereal password
     },
