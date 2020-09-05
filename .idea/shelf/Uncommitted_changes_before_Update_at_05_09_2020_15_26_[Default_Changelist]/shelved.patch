@@ -1,0 +1,47 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c53ef002-bf7e-4718-bf5a-4b043132e3ee\" name=\"Default Changelist\" comment=\"bug fixes\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1h5DtE0nOoZ0OhOfrE5jglir05D\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c53ef002-bf7e-4718-bf5a-4b043132e3ee\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1599292271952</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1599292271952</updated>\r\n      <workItem from=\"1599292273151\" duration=\"11240000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"package.json start script added\">\r\n      <created>1599299739880</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1599299739880</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"env variables added\">\r\n      <created>1599300549019</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1599300549019</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"env variables added\">\r\n      <created>1599300582119</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1599300582119</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"bug fixes\">\r\n      <created>1599302691196</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1599302691196</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"bug fixes\">\r\n      <created>1599302905997</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1599302905997</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"bug fixes\">\r\n      <created>1599303524053</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1599303524053</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"bug fixes\">\r\n      <created>1599303564219</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1599303564219</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"package.json start script added\" />\r\n    <MESSAGE value=\"env variables added\" />\r\n    <MESSAGE value=\"bug fixes\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"bug fixes\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"643\" y=\"310\" key=\"Github.ShareDialog\" timestamp=\"1599298920637\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"643\" y=\"310\" key=\"Github.ShareDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1599298920637\" />\r\n    <state x=\"572\" y=\"110\" key=\"Github.UntrackedFilesDialog\" timestamp=\"1599298933361\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"572\" y=\"110\" key=\"Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824\" timestamp=\"1599298933361\" />\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1599303571528\">\r\n      <screen x=\"0\" y=\"0\" width=\"1536\" height=\"824\" />\r\n    </state>\r\n    <state x=\"361\" y=\"145\" key=\"Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824\" timestamp=\"1599303571528\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 814c88ce5f0025233544b6dbb3e571ea7c78a98e)
++++ .idea/workspace.xml	(date 1599308691618)
+@@ -34,7 +34,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1599292271952</updated>
+-      <workItem from="1599292273151" duration="11240000" />
++      <workItem from="1599292273151" duration="14732000" />
+     </task>
+     <task id="LOCAL-00001" summary="package.json start script added">
+       <created>1599299739880</created>
+@@ -85,7 +85,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1599303564219</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="bug fixes">
++      <created>1599304024108</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1599304024108</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -106,9 +113,9 @@
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+     <state x="572" y="110" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599298933361" />
+-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599303571528">
++    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1599304029412">
+       <screen x="0" y="0" width="1536" height="824" />
+     </state>
+-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599303571528" />
++    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599304029412" />
+   </component>
+ </project>
+\ No newline at end of file
