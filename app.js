@@ -5,7 +5,7 @@ const cors = require("cors")
 const bodyParser = require("body-parser")
 
 const corsOptions = {
-    origin: ['http://localhost:3000/portfolio#contacts', 'https://easytalkchat.netlify.app'],
+    origin: ['http://localhost:3000', 'https://easytalkchat.netlify.app'],
     credentials: true,
 };
 
