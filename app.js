@@ -4,7 +4,12 @@ const nodemailer = require("nodemailer");
 const cors = require("cors")
 const bodyParser = require("body-parser")
 
-app.use(cors())
+const corsOptions = {
+    origin: ['http://localhost:3000', 'https://easytalkchat.netlify.app'],
+    credentials: true,
+};
+
+app.use(cors(corsOptions))
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(bodyParser.json())
 
