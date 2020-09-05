@@ -1,6 +1,5 @@
 const express = require('express')
 const app = express()
-const port = 3010
 const nodemailer = require("nodemailer");
 const cors = require("cors")
 const bodyParser = require("body-parser")
@@ -10,6 +9,7 @@ app.use(bodyParser.urlencoded({extended: false}))
 app.use(bodyParser.json())
 
 
+let port = process.env.PORT || 3010
 let smtp_login = process.env.LOGIN
 let smtp_password = process.env.PASSWORD
 
