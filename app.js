@@ -14,13 +14,13 @@ const bodyParser = require("body-parser")
     next()
 });*/
 
-app.use(cors(/*corsOptions*/))
+app.use(cors())
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(bodyParser.json())
 
 
 let port = process.env.PORT || 3010
-let smtp_login = process.env.LOGIN || "a.voskanyan1@gmail.com"
+let smtp_login = process.env.LOGIN || "arsenbelarustest@gmail.com"
 let smtp_password = process.env.PASSWORD || "v2786856"
 
 let transporter = nodemailer.createTransport({
